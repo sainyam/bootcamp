@@ -1,0 +1,5 @@
+#firstname,hourly-pay,phone,level,age
+Alice,20.00,607-123-4567,Junior,19
+Bob,18.00,607-765-4321,Sophomore,21
+Xinyue,10.00,607-706-3542,Senior,20.5
+Kentavious,20.00,607-706-4689,Grad,25
